@@ -1,5 +1,5 @@
 const photos = [
-    "photos/photo1.jpg",
+    "10000190028.jpg",
     "photos/photo2.jpg",
     "photos/photo3.jpg",
     "photos/photo4.jpg"
